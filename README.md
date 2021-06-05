@@ -18,4 +18,16 @@ BIG O complexities :-
 - Linked List Transversal = O(n)
 - Access element by Value = O(n)
 
+
+## HASH TABLE :-
+
+Hash tables are a type of data structure in which the address or the index value of the data element is generated from a hash function. That makes accessing the data faster as the index value behaves as a key for the data value. In other words Hash table stores key-value pairs but the key is generated through a hashing function.
+
+In Python, the Dictionary data types represent the implementation of hash tables. I have made a python file in which a Hash function is used to locate the data element value by its index value.
+
+BIG O complexities :- 
+
+- Insertion on average = O(1)
+- Deletion on average = O(1)
+- Look up by Key on average = O(1)
      

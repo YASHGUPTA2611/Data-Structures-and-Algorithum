@@ -25,12 +25,17 @@ Hash tables are a type of data structure in which the address or the index value
 
 In Python, the Dictionary data types represent the implementation of hash tables. I have made a python file in which a Hash function is used to locate the data element value by its index value.
 
+![](Images/hash2.PNG)
+
 BIG O complexities :- 
 
 - Insertion on average = O(1)
 - Deletion on average = O(1)
 - Look up by Key on average = O(1)
-     
+
+Hash implementation in different languages
+
+![](Images/hash.PNG)
 
 ## STACKS :- 
 
@@ -49,7 +54,7 @@ BIG O complexities :-
 - Pop element = O(1)
 - Search element by value = O(n)
 
-Stack in different language
+Stack implementation in different language
 
 ![](Images/stack.PNG)
 
@@ -65,7 +70,7 @@ BIG O complexities :-
 - Pop element = O(1)
 - Search element by value = O(n)
 
-Queue in different language.
+Queue implementation in different language.
 
 ![](Images/Queue.PNG)
 

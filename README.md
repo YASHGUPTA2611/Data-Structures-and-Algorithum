@@ -52,5 +52,14 @@ BIG O complexities :-
 
 Queue data structure is first in first out data structure also known as FIFO. It can be used at many places typically for a producer consumer type of architecture where one component is producing information and other components are consuming them. Queue allows us to implement loosely coupled architecture which has many benefits. In the python file I have taken the example of Price of a Stock at certain time interval.
 
-![queue](queue.png)
+![](Images/queue2.PNG)
+
+BIG O complexities :- 
+
+- Push element = O(1)
+- Pop element = O(1)
+- Search element by value = O(n)
+
+For different languages we use different functions for Queue.
+![](Images/Queue.PNG)
 

@@ -36,6 +36,8 @@ BIG O complexities :-
 
  Stack is a very important data structure in any programming language. It takes the concept of Last in First out(LIFO). There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out) order.
  
+ ![](Images/stack2.PNG)
+ 
  Uses :- 
  
  - Function calling in any programming laguage is managed by stack.
@@ -47,6 +49,9 @@ BIG O complexities :-
 - Pop element = O(1)
 - Search element by value = O(n)
 
+Stack in different language
+
+![](Images/stack.PNG)
 
 ## QUEUE :- 
 
@@ -60,6 +65,7 @@ BIG O complexities :-
 - Pop element = O(1)
 - Search element by value = O(n)
 
-For different languages we use different functions for Queue.
+Queue in different language.
+
 ![](Images/Queue.PNG)
 

@@ -34,7 +34,7 @@ BIG O complexities :-
 
 ## STACKS :- 
 
- Stack is a very important data structure in any programming language. It takes the concept of Last in First out(LIFO) or First in Last out(FILO). There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out)/FILO(First In Last Out) order.
+ Stack is a very important data structure in any programming language. It takes the concept of Last in First out(LIFO). There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out) order.
  
  Uses :- 
  

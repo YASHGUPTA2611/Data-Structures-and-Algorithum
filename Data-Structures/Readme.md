@@ -6,7 +6,7 @@
 
 Linked list is a data structure similar to array in a sense that it stores bunch of items. But unlike array, linked lists are not stored in contiguous memory locations. They are instead chained by an element storing address location of next element. This makes insertion very easy. Also unlike dynamic arrays you don't have to pre-allocate some memory capacity.
 
-![](Data-Structures/Images//ll1.PNG)
+![](Images//ll1.PNG)
 
 Advantage : 1) We don't need to pre allocate space.
             2) Insertion is easier.
@@ -22,7 +22,7 @@ BIG O complexities :-
 
 Linked LIst implementation in different languages
 
-![](Data-Structures/Images//ll2.PNG)
+![](Images/ll2.PNG)
 
 ## HASH TABLE :-
 
@@ -30,7 +30,7 @@ Hash tables are a type of data structure in which the address or the index value
 
 In Python, the Dictionary data types represent the implementation of hash tables. I have made a python file in which a Hash function is used to locate the data element value by its index value.
 
-![](Data-Structures/Images//hash2.PNG)
+![](Images//hash2.PNG)
 
 BIG O complexities :- 
 
@@ -40,13 +40,13 @@ BIG O complexities :-
 
 Hash implementation in different languages
 
-![](Data-Structures/Images//hash.PNG)
+![](Images//hash.PNG)
 
 ## STACKS :- 
 
  Stack is a very important data structure in any programming language. It takes the concept of Last in First out(LIFO). There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out) order.
  
- ![](Data-Structures/Images//stack2.PNG)
+ ![](Images/stack2.PNG)
  
  Uses :- 
  
@@ -61,13 +61,13 @@ BIG O complexities :-
 
 Stack implementation in different language
 
-![](Data-Structures/Images//stack.PNG)
+![](Images/stack.PNG)
 
 ## QUEUE :- 
 
 Queue data structure is first in first out data structure also known as FIFO. It can be used at many places typically for a producer consumer type of architecture where one component is producing information and other components are consuming them. Queue allows us to implement loosely coupled architecture which has many benefits. In the python file I have taken the example of Price of a Stock at certain time interval.
 
-![](Data-Structures/Images//queue2.PNG)
+![](Images/queue2.PNG)
 
 BIG O complexities :- 
 
@@ -77,4 +77,4 @@ BIG O complexities :-
 
 Queue implementation in different language.
 
-![](Data-Structures/Images//Queue.PNG)
+![](Images/Queue.PNG)
